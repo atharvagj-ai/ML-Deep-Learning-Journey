@@ -1,4 +1,4 @@
-# ML-Deep-Learning-Journey-
+# ML-Deep-Learning-Journey
 This repository contains my entire journey of learning about machine learning and deep learning.
 
 # WEEK 1
